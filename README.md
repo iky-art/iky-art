@@ -1,91 +1,99 @@
+```text
 III   K  K  Y   Y
  I    K K    Y Y
  I    KK      Y
  I    K K     Y
 III   K  K    Y
+```
 
-Risky Pratama
-Full-Stack / Web / Creative Developer
+# Risky Pratama — Iky
+Full‑Stack Developer · Web · Creative Developer
 
-Ringkas: saya merancang dan membangun aplikasi web, tooling untuk developer, CLI, dan eksperimen visual yang mudah dirunut.
+Sederhana, teknikal, dan langsung ke kode: saya membangun web, tooling, CLI, dan eksperimen visual yang bisa ditelusuri dan dipakai ulang.
 
 ---
 
 ## About Me
-Saya fokus membangun:
-- web applications
-- developer tools
-- CLI tools
-- AI tools (sebagai helper / automasi)
-- experimental projects
-- creative interfaces (SVG / Web‑3D prototipe)
+Saya suka merancang dan membangun:
+
+- web applications (frontend & backend)
+- developer tools & utilities
+- CLI tools (terminal‑first)
+- AI tools (helper / automasi kecil)
+- experimental projects dan creative interfaces (SVG / 3D prototypes)
+
+Pendek, teknikal, dan fokus pada hasil yang dapat diuji dan diintegrasikan.
 
 ---
 
 ## Currently Building
-Berikut daftar proyek yang saya kelola atau kembangkan; deskripsi singkat tanpa mengarang fitur.
+Nama‑nama proyek yang saya kembangkan atau kelola (deskripsi singkat):
 
 - DevLens — observability & developer dashboards
 - DevKit — kumpulan CLI utilities dan skrip produktivitas
 - NexForge — starter kit & komponen UI untuk proyek web
-- ScanForge — utilities untuk scanning & automation
-- CipherLab — eksperimen dengan utilities terkait kripto
+- ScanForge — scanning & automation utilities
+- CipherLab — eksperimen utilities terkait kriptografi
 - SkyCast — eksperimen deploy / infra kecil
-- Savora — prototipe UI visual / 3D
-- Iky Store — toko sederhana untuk tools / aset
+- Savora — prototipe visual / 3D
+- Iky Store — small storefront untuk tools & aset
+
+(Catatan: deskripsi ringkas, tidak mengklaim fitur yang belum pasti.)
 
 ---
 
 ## Selected Projects
-Ringkasan proyek, stack, dan status. Hanya menyertakan tautan repo bila tersedia.
+Ringkasan teknis singkat. Hanya menyertakan link repo bila tersedia.
 
-| Project    | Description                              | Stack (high level)                  | Status       | Repo |
-|------------|------------------------------------------|-------------------------------------|--------------|------|
-| DevLens    | Dashboards & local telemetry viewers     | TypeScript · Node.js · Vite         | Building     | —    |
-| DevKit     | CLI scripts & small utilities            | TypeScript · Node.js                | Building     | —    |
-| NexForge   | UI primitives & starter kit              | React · Vite · Tailwind             | Experimental | —    |
-| ScanForge  | Scanning & automation utilities          | TypeScript · tools                  | Building     | https://github.com/iky-art/ScanForge |
-| CipherLab  | Crypto utilities / study playground      | Rust · TypeScript (experiments)     | Experimental | —    |
-| SkyCast    | Deployment / infra helpers               | Node.js · Docker                    | Maintenance  | —    |
-| Savora     | Visual prototypes (3D, shaders, SVG)     | Three.js · SVG prototypes           | Experimental | —    |
-| Iky Store  | Small storefront for tools & assets      | Static frontend · serverless APIs   | Experimental | —    |
+| Project    | Description                         | Stack (overview)             | Status       | Repo |
+|------------|-------------------------------------|-------------------------------|--------------|------|
+| DevLens    | Dashboard & quick log viewers       | TypeScript · Node.js · Vite  | Building     | —    |
+| DevKit     | CLI utilities & productivity scripts| TypeScript · Node.js         | Building     | —    |
+| NexForge   | UI primitives & starter kit         | React · Vite · Tailwind      | Experimental | —    |
+| ScanForge  | Scanning & automation utilities     | TypeScript · tooling         | Building     | https://github.com/iky-art/ScanForge |
+| CipherLab  | Crypto utilities / learning space   | Rust · TypeScript (experiments)| Experimental | —  |
+| SkyCast    | Infra / deploy helpers              | Node.js · Docker             | Maintenance  | —    |
+| Savora     | Visual / 3D UI prototypes           | Three.js · SVG prototypes    | Experimental | —    |
+| Iky Store  | Storefront for tools & assets       | Static frontend · serverless | Experimental | —    |
+
+Jika ingin detail teknis tiap proyek, saya bisa tambahkan README per repo.
 
 ---
 
 ## Tech Stack
-Saya menempatkan teknologi menurut peran sehari‑hari.
 
-### Web Development
+### WEB DEVELOPMENT
 HTML · CSS · JavaScript · TypeScript · React · Vite · Tailwind CSS
 
-### Backend
+### BACKEND
 Node.js · Express · PHP · Laravel · Python · Go
 
-### Database
+### DATABASE
 Supabase · MySQL · MariaDB · MongoDB · SQLite
 
-### Tools
+### TOOLS
 Git · GitHub · Vercel · Termux · npm · Docker
 
-### Creative / Advanced
-Three.js · Framer Motion · REST APIs · CLI development
+### CREATIVE / ADVANCED
+Three.js · Framer Motion · REST APIs · CLI Development
 
-(Tech yang tercantum adalah yang saya gunakan; bukan sekadar nama agar terlihat keren.)
+(Tehnologi dipilih berdasarkan penggunaan nyata, bukan untuk pamer.)
 
 ---
 
 ## Developer Toolkit
-Sistem alat pribadi yang saya kembangkan dan pakai sehari‑hari:
+Ecosystem pribadi — alat yang saya gunakan dan kembangkan:
+
 - DevKit — CLI helpers (scaffold, shortcuts, lint/format wrappers)
-- DevLens — local dashboards, log/trace quickviews
-- CLI utilities — skrip tugas berulang, deploy kecil
-- Acode / editor snippets — potongan yang menghemat waktu
-- Developer utilities — kumpulan fungsi yang dipakai lintas proyek
+- DevLens — local dashboards & quick log viewers
+- CLI utilities — tugas berulang dan deploy cepat
+- Acode / editor snippets — potongan yang mempercepat iterasi
+- Developer utilities — fungsi kecil yang dipakai lintas proyek
 
 ---
 
 ## Evolution
-Branding / narasi singkat dari titik awal menuju identitas sekarang:
+Perjalanan branding singkat (konteks identitas, bukan timeline resmi):
 
 NovaByte
 ↓
@@ -93,25 +101,25 @@ NovaByte Studios
 ↓
 NexForge
 
-NexForge adalah identitas yang dipakai saat ini untuk kit & eksperimen UI setelah era NovaByte. Ini konteks evolusi nama, bukan timeline formal.
+NexForge menjadi identitas sekarang untuk kit dan eksperimen UI setelah era NovaByte.
 
 ---
 
 ## Experiment Lab
-Daftar eksperimen dan status ringkas.
+Proyek eksperimen dan status konservatif.
 
-| Project   | Type             | Status       |
-|-----------|------------------|--------------|
-| DevLens   | Developer Tool   | Building     |
-| DevKit    | CLI              | Active       |
-| ScanForge | Security Tool    | Experimental |
-| CipherLab | Security Learning| Experimental |
-| Savora    | Visual Prototypes| Experimental |
+| Project   | Type              | Status       |
+|-----------|-------------------|--------------|
+| DevLens   | Developer Tool    | Building     |
+| DevKit    | CLI               | Active       |
+| ScanForge | Scanning Tool     | Experimental |
+| CipherLab | Security Learning | Experimental |
+| Savora    | Visual Prototypes | Experimental |
 
 ---
 
 ## GitHub Stats
-Statistik diambil dari layanan publik GitHub cards (dinamis). Saya tidak membuat angka sendiri.
+Statistik ditarik dari layanan publik (dinamis). Saya tidak membuat angka manual.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iky-art&show_icons=true&theme=dark" alt="GitHub stats" />
@@ -135,37 +143,40 @@ $ status
 building — DevLens · DevKit; experiments in Savora
 ```
 
-ASCII system box (compact):
+ASCII system box (compact & mobile friendly):
 
-+------------------------------------+
-|  IKY DEV SYSTEM                    |
-|  WEB    [ONLINE]   TOOLS   [BUILD] |
-|  CLI    [ACTIVE]   AI      [EXPLOR]|
-+------------------------------------+
+```text
+┌──────────────────────────┐
+│   IKY DEV SYSTEM         │
+├──────────────────────────┤
+│ WEB    [ONLINE]          │
+│ TOOLS  [BUILDING]        │
+│ CLI    [ACTIVE]          │
+│ AI     [EXPLORING]       │
+└──────────────────────────┘
+```
 
 ---
 
 ## Learning & Exploring
-Area yang sedang saya pelajari / eksplorasi:
-- Web Engineering
-- Developer Tools
-- CLI Development
-- AI Tools (aplikasi & integrasi)
-- Cybersecurity (dasar & tooling)
+Aktif mempelajari / eksplorasi:
+
+- Web Engineering (performance & architecture)
+- Developer Tools & CLI development
+- AI integration & tooling
+- Cybersecurity fundamentals & tooling
 - System Design
-- Open Source practices
+- Open Source workflows
 
 ---
 
 ## Connect With Me
 - GitHub: https://github.com/iky-art/
 
+Buka issue pada repo terkait dan tag saya ketika ingin kolaborasi.
+
 ---
 
-ASCII footer (signature):
-
+```text
 [= IKY =]  Risky "Iky" Pratama — iky-art
-
----
-
-Catatan singkat: README ini disusun agar ringkas, teknikal, dan terasa seperti workspace developer. Jika ingin versi lebih pendek atau menambahkan README per proyek, saya siap bantu.
+```
