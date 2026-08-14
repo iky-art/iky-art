@@ -1,176 +1,171 @@
-```text
- ___  _  __
-|_ _|| |/ /  ___  _ __   ___  ___  _ __  ___
- | | | ' /  / _ \| '_ \ / _ \/ _ \| '_ \/ __|
- | | | . \ |  __/| | | |  __/ (_) | | | \__ \
-|___||_|\_\ \___||_| |_|\___|\___/|_| |_|___/
+III   K  K  Y   Y
+ I    K K    Y Y
+ I    KK      Y
+ I    K K     Y
+III   K  K    Y
 
-``` 
+Risky Pratama
+Full-Stack / Web / Creative Developer
 
-# Risky "Iky" Pratama — Full‑Stack / Creative Developer
-
-Role: Full‑Stack Developer · Web · Creative Developer · Developer Tools
-
-A practical maker: I build web applications, developer tools, CLIs and compact AI‑assisted helpers. I prefer clear surfaces, observable systems, and components that are easy to read and reuse.
-
-GitHub: https://github.com/iky-art
+Ringkas: saya merancang dan membangun aplikasi web, tooling untuk developer, CLI, dan eksperimen visual yang mudah dirunut.
 
 ---
 
-## About
-
-I design and implement:
-- web applications and frontend experiences
-- backend services and APIs
-- developer tooling and CLI utilities
-- AI‑assisted utilities and automations
-- experimental UI / creative interfaces
-
-Work is organized as small, focused repositories — each with clear intent, tests where needed, and README usage notes.
+## About Me
+Saya fokus membangun:
+- web applications
+- developer tools
+- CLI tools
+- AI tools (sebagai helper / automasi)
+- experimental projects
+- creative interfaces (SVG / Web‑3D prototipe)
 
 ---
 
-## Currently building
+## Currently Building
+Berikut daftar proyek yang saya kelola atau kembangkan; deskripsi singkat tanpa mengarang fitur.
 
-These are names I maintain and iterate on. Descriptions are intentionally concise.
-
-- DevLens — developer observability & quick dashboards
-- DevKit — collection of CLI helpers and developer utilities
-- NexForge — component & starter kit for web apps
-- ScanForge — scanning, analysis and automation utilities
-- Iky Store — small storefront for tools and digital assets
-- CipherLab — cryptography utilities and learning experiments
-- SkyCast — deployment / automation experiments
-- Savora — creative UI prototypes and visual experiments
-
----
-
-## Selected projects
-
-Short showcase — technology notes are high level. Status indicates current focus.
-
-| Project     | Short description                                  | Technology (high level)                 | Status       |
-|-------------|---------------------------------------------------|-----------------------------------------|--------------|
-| DevLens     | Lightweight dashboards & log/trace viewers         | TypeScript · Node.js · Vite             | BUILDING     |
-| DevKit      | CLI utilities and developer scripts                | TypeScript · Node.js                    | BUILDING     |
-| NexForge    | Starter kit and UI primitives                      | React · Vite · Tailwind                 | EXPERIMENTAL |
-| ScanForge   | Automation and scanning utilities                  | Go · Python (tools)                     | BUILDING     |
-| Iky Store   | Storefront for small tools and assets              | Static frontend · serverless APIs       | EXPERIMENTAL |
-| CipherLab   | Crypto utilities and study material                | Rust · TypeScript bindings              | EXPERIMENTAL |
-| SkyCast     | Small infra and deployment helpers                 | Node.js · Docker                        | MAINTENANCE  |
-| Savora      | Visual/3D UI experiments                           | Three.js · WebGL (prototypes)           | EXPERIMENTAL |
-
-Notes: descriptions are short — tell me which project you want expanded and I’ll add a repo‑level README.
+- DevLens — observability & developer dashboards
+- DevKit — kumpulan CLI utilities dan skrip produktivitas
+- NexForge — starter kit & komponen UI untuk proyek web
+- ScanForge — utilities untuk scanning & automation
+- CipherLab — eksperimen dengan utilities terkait kripto
+- SkyCast — eksperimen deploy / infra kecil
+- Savora — prototipe UI visual / 3D
+- Iky Store — toko sederhana untuk tools / aset
 
 ---
 
-## Tech stack
+## Selected Projects
+Ringkasan proyek, stack, dan status. Hanya menyertakan tautan repo bila tersedia.
 
-Languages
-- JavaScript, TypeScript, Python, PHP, Go, Rust, SQL, HTML, CSS
-
-Frontend
-- React, Vite, Tailwind CSS, Three.js, Framer Motion
-
-Backend
-- Node.js, Express, (Laravel for PHP needs)
-
-Databases & Hosting
-- Supabase, MySQL / MariaDB, MongoDB, Vercel
-
-Tools
-- Git, GitHub, Docker, Termux (mobile dev), CLI tooling
+| Project    | Description                              | Stack (high level)                  | Status       | Repo |
+|------------|------------------------------------------|-------------------------------------|--------------|------|
+| DevLens    | Dashboards & local telemetry viewers     | TypeScript · Node.js · Vite         | Building     | —    |
+| DevKit     | CLI scripts & small utilities            | TypeScript · Node.js                | Building     | —    |
+| NexForge   | UI primitives & starter kit              | React · Vite · Tailwind             | Experimental | —    |
+| ScanForge  | Scanning & automation utilities          | TypeScript · tools                  | Building     | https://github.com/iky-art/ScanForge |
+| CipherLab  | Crypto utilities / study playground      | Rust · TypeScript (experiments)     | Experimental | —    |
+| SkyCast    | Deployment / infra helpers               | Node.js · Docker                    | Maintenance  | —    |
+| Savora     | Visual prototypes (3D, shaders, SVG)     | Three.js · SVG prototypes           | Experimental | —    |
+| Iky Store  | Small storefront for tools & assets      | Static frontend · serverless APIs   | Experimental | —    |
 
 ---
 
-## Developer toolkit
+## Tech Stack
+Saya menempatkan teknologi menurut peran sehari‑hari.
 
-A small, personal ecosystem of tools I maintain and reuse:
+### Web Development
+HTML · CSS · JavaScript · TypeScript · React · Vite · Tailwind CSS
 
-- DevKit — local CLI helpers (scaffolding, shortcuts, formatters)
-- DevLens — quick developer dashboards and local telemetry viewers
-- CLI utilities — small single‑purpose scripts for developer workflows
-- Editor snippets & small plugins — productivity helpers for fast iteration
+### Backend
+Node.js · Express · PHP · Laravel · Python · Go
 
-If you want examples or install instructions for any of these, I can add quickstart sections per repo.
+### Database
+Supabase · MySQL · MariaDB · MongoDB · SQLite
 
----
+### Tools
+Git · GitHub · Vercel · Termux · npm · Docker
 
-## Experiments
+### Creative / Advanced
+Three.js · Framer Motion · REST APIs · CLI development
 
-Current experimental pieces and status labels (kept conservative):
-
-- NexForge · EXPERIMENTAL — UI primitives and composition experiments
-- CipherLab · EXPERIMENTAL — research and small libs around crypto
-- Savora · EXPERIMENTAL — visual prototypes and 3D UI explorations
-- DevLens · BUILDING — core dashboards and integration work
-- SkyCast · MAINTENANCE — infra tooling and deployment helpers
+(Tech yang tercantum adalah yang saya gunakan; bukan sekadar nama agar terlihat keren.)
 
 ---
 
-## Building philosophy
-
-Keep components small and observable. Prefer explicit APIs, clear logging, and reproducible environments (typed boundaries where useful). I value readable code, incremental shipping, and reproducible local setups.
-
----
-
-## Terminal
-
-$ whoami
-Risky Pratama (Iky)
-
-$ alias
-iky = "devkit || devlens"
-
-$ focus
-web • tools • experiments • open‑source
-
-$ status
-building (DevLens · DevKit) — experiments in Savora & NexForge
+## Developer Toolkit
+Sistem alat pribadi yang saya kembangkan dan pakai sehari‑hari:
+- DevKit — CLI helpers (scaffold, shortcuts, lint/format wrappers)
+- DevLens — local dashboards, log/trace quickviews
+- CLI utilities — skrip tugas berulang, deploy kecil
+- Acode / editor snippets — potongan yang menghemat waktu
+- Developer utilities — kumpulan fungsi yang dipakai lintas proyek
 
 ---
 
-## GitHub stats
+## Evolution
+Branding / narasi singkat dari titik awal menuju identitas sekarang:
+
+NovaByte
+↓
+NovaByte Studios
+↓
+NexForge
+
+NexForge adalah identitas yang dipakai saat ini untuk kit & eksperimen UI setelah era NovaByte. Ini konteks evolusi nama, bukan timeline formal.
+
+---
+
+## Experiment Lab
+Daftar eksperimen dan status ringkas.
+
+| Project   | Type             | Status       |
+|-----------|------------------|--------------|
+| DevLens   | Developer Tool   | Building     |
+| DevKit    | CLI              | Active       |
+| ScanForge | Security Tool    | Experimental |
+| CipherLab | Security Learning| Experimental |
+| Savora    | Visual Prototypes| Experimental |
+
+---
+
+## GitHub Stats
+Statistik diambil dari layanan publik GitHub cards (dinamis). Saya tidak membuat angka sendiri.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iky-art&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iky-art&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iky-art&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iky-art&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
 ---
 
-## 3D‑inspired banner (SVG)
+## iky@github:~$
+```bash
+$ whoami
+Risky Pratama
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" width="100%" height="80">
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1">
-      <stop offset="0" stop-color="#051021"/>
-      <stop offset="1" stop-color="#071233"/>
-    </linearGradient>
-    <linearGradient id="g2" x1="0" x2="1">
-      <stop offset="0" stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#06B6D4"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#g1)"/>
-  <g transform="translate(24,12)">
-    <rect x="0" y="0" width="120" height="56" rx="8" fill="#07132A" stroke="url(#g2)" stroke-opacity="0.14"/>
-    <g transform="translate(8,8)">
-      <rect x="0" y="0" width="40" height="40" rx="4" fill="#081833"/>
-      <rect x="44" y="0" width="64" height="40" rx="4" fill="#071226"/>
-      <text x="72" y="26" fill="#9BE7E7" font-family="monospace" font-size="12" text-anchor="middle">Iky — tools · web · experiments</text>
-    </g>
-  </g>
-</svg>
+$ alias
+Iky
 
----
+$ focus
+web / tools / cli / ai / experiments
 
-## Connect
+$ status
+building — DevLens · DevKit; experiments in Savora
+```
 
-- GitHub: https://github.com/iky-art
+ASCII system box (compact):
 
-If you prefer collaboration or an issue on a specific repo, open an issue and tag me — I check repo issues for context.
++------------------------------------+
+|  IKY DEV SYSTEM                    |
+|  WEB    [ONLINE]   TOOLS   [BUILD] |
+|  CLI    [ACTIVE]   AI      [EXPLOR]|
++------------------------------------+
 
 ---
 
-_Risky “Iky” Pratama — iky-art_
+## Learning & Exploring
+Area yang sedang saya pelajari / eksplorasi:
+- Web Engineering
+- Developer Tools
+- CLI Development
+- AI Tools (aplikasi & integrasi)
+- Cybersecurity (dasar & tooling)
+- System Design
+- Open Source practices
+
+---
+
+## Connect With Me
+- GitHub: https://github.com/iky-art/
+
+---
+
+ASCII footer (signature):
+
+[= IKY =]  Risky "Iky" Pratama — iky-art
+
+---
+
+Catatan singkat: README ini disusun agar ringkas, teknikal, dan terasa seperti workspace developer. Jika ingin versi lebih pendek atau menambahkan README per proyek, saya siap bantu.
